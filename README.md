@@ -29,7 +29,7 @@ Userscripts to add functionality to miscellaneous sites.
 
 [gfti-gf]: https://greasyfork.org/en/scripts/33064-greasy-fork-total-installs
 
-[gfti-ou]: https://openuserjs.org/scripts/Mottie/GitHub_Code_Colors
+[gfti-ou]: https://openuserjs.org/scripts/Mottie/Greasy_Fork_Total_Installs
 
 ## Updating
 
