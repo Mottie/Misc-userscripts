@@ -19,17 +19,23 @@ Userscripts to add functionality to miscellaneous sites.
 	* Install a script from [GreasyFork](https://greasyfork.org/en/users/24847-mottie) (GF) from the userscript site page
 	* Or, install the scripts from [OpenUserJS](https://openuserjs.org/users/Mottie/scripts) (OU).<br><br>
 
-	| Userscript Wiki                          | Direct<br>Install   | Sites                       | Created    | Updated    |
-	|------------------------------------------|:-------------------:|:---------------------------:|:----------:|:----------:|
-	| [Greasy Fork Total Installs][gfti-wiki]  | [install][gfti-raw] | [GF][gfti-gf] [OU][gfti-ou] | 2017.09.12 | 2017.09.12 |
+	| Userscript Wiki                           | Direct<br>Install   | Sites                       | Created    | Updated    |
+	|-------------------------------------------|:-------------------:|:---------------------------:|:----------:|:----------:|
+	| [Greasy Fork Total Installs][gfti-wiki]   | [install][gfti-raw] | [GF][gfti-gf] [OU][gfti-ou] | 2017.09.12 | 2017.09.12 |
+	| [Cryptokitty rare highlighter][gfti-wiki] | [install][ckrh-raw] | [GF][ckrh-gf] [OU][ckrh-ou] | 2017.12.11 | 2017.12.11 |
+
 
 [gfti-wiki]: https://github.com/Mottie/Misc-userscripts/wiki/Greasy-Fork-Total-Installs
+[ckrh-wiki]: https://github.com/Mottie/Misc-userscripts/wiki/Cryptokitty-Rare-Highlighter
 
 [gfti-raw]: https://raw.githubusercontent.com/Mottie/Misc-userscripts/master/greasy-fork-total-installs.user.js
+[ckrh-raw]: https://raw.githubusercontent.com/Mottie/Misc-userscripts/master/cryptokitty-rare-highlighter.user.js
 
 [gfti-gf]: https://greasyfork.org/en/scripts/33064-greasy-fork-total-installs
+[ckrh-gf]: https://greasyfork.org/en/scripts/36269-cryptokitty-rare-highlighter
 
 [gfti-ou]: https://openuserjs.org/scripts/Mottie/Greasy_Fork_Total_Installs
+[ckrh-ou]: https://openuserjs.org/scripts/Mottie/Cryptokitty_rare_highlighter
 
 ## Updating
 
