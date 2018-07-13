@@ -10,12 +10,9 @@
 		"url": "https://github.com/Mottie"
 	},
 	"devDependencies": {
-		"eslint": "^5.0.1",
-		"fs-extra": "^6.0.1",
-		"got": "^8.3.1"
+		"eslint": "^5.0.1"
 	},
 	"scripts": {
-		"lint": "eslint *.js || true",
-		"build:ck": "node build/cryptokitty.js"
+		"lint": "eslint *.js || true"
 	}
 }
