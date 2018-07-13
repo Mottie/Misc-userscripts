@@ -22,7 +22,7 @@ Userscripts to add functionality to miscellaneous sites.
 	| Userscript Wiki                           | Direct<br>Install   | Sites                       | Created    | Updated    |
 	|-------------------------------------------|:-------------------:|:---------------------------:|:----------:|:----------:|
 	| [Greasy Fork Total Installs][gfti-wiki]   | [install][gfti-raw] | [GF][gfti-gf] [OU][gfti-ou] | 2017.09.12 | 2017.09.12 |
-	| [Cryptokitty rare highlighter][gfti-wiki] | [install][ckrh-raw] | [GF][ckrh-gf] [OU][ckrh-ou] | 2017.12.11 | 2018.07.11 |
+	| [Cryptokitty rare highlighter][gfti-wiki] | [install][ckrh-raw] | [GF][ckrh-gf] [OU][ckrh-ou] | 2017.12.11 | 2018.07.12 |
 
 
 [gfti-wiki]: https://github.com/Mottie/Misc-userscripts/wiki/Greasy-Fork-Total-Installs
