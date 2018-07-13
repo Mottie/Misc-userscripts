@@ -30,8 +30,8 @@
 		"orange": number => number <= 500,
 		"blue": number => number <= 1000,
 		"green": number => number <= 10000,
-		"silver": number => number <= 100000,
-		"black": number => number > 100000
+		"black": number => number <= 100000,
+		"silver": number => number > 100000
 	};
 
 	function buildList() {
