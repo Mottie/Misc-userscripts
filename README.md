@@ -21,21 +21,26 @@ Userscripts to add functionality to miscellaneous sites.
 
 	| Userscript Wiki                           | Direct<br>Install   | Sites                       | Created    | Updated    |
 	|-------------------------------------------|:-------------------:|:---------------------------:|:----------:|:----------:|
-	| [Greasy Fork Total Installs][gfti-wiki]   | [install][gfti-raw] | [GF][gfti-gf] [OU][gfti-ou] | 2017.09.12 | 2017.09.12 |
 	| [Cryptokitty rare highlighter][gfti-wiki] | [install][ckrh-raw] | [GF][ckrh-gf] [OU][ckrh-ou] | 2017.12.11 | 2018.07.12 |
+	| [Greasy Fork Copy Code][gfcc-wiki]        | [install][gfcc-raw] | [GF][gfcc-gf] [OU][gfcc-ou] | 2021.03.21 | 2021.03.21 |
+	| [Greasy Fork Total Installs][gfti-wiki]   | [install][gfti-raw] | [GF][gfti-gf] [OU][gfti-ou] | 2017.09.12 | 2017.09.12 |
 
 
-[gfti-wiki]: https://github.com/Mottie/Misc-userscripts/wiki/Greasy-Fork-Total-Installs
 [ckrh-wiki]: https://github.com/Mottie/Misc-userscripts/wiki/Cryptokitty-Rare-Highlighter
+[gfti-wiki]: https://github.com/Mottie/Misc-userscripts/wiki/Greasy-Fork-Total-Installs
+[gfcc-wiki]: https://github.com/Mottie/Misc-userscripts/wiki/Greasy-Fork-Copy-Code
 
-[gfti-raw]: https://raw.githubusercontent.com/Mottie/Misc-userscripts/master/greasy-fork-total-installs.user.js
 [ckrh-raw]: https://raw.githubusercontent.com/Mottie/Misc-userscripts/master/cryptokitty-rare-highlighter.user.js
+[gfcc-raw]: https://raw.githubusercontent.com/Mottie/Misc-userscripts/master/greasy-fork-copy-code.user.js
+[gfti-raw]: https://raw.githubusercontent.com/Mottie/Misc-userscripts/master/greasy-fork-total-installs.user.js
 
-[gfti-gf]: https://greasyfork.org/en/scripts/33064-greasy-fork-total-installs
 [ckrh-gf]: https://greasyfork.org/en/scripts/36269-cryptokitty-rare-highlighter
+[gfcc-gf]:https://greasyfork.org/en/scripts/423726-greasyfork-copy-code-snippet
+[gfti-gf]: https://greasyfork.org/en/scripts/33064-greasy-fork-total-installs
 
-[gfti-ou]: https://openuserjs.org/scripts/Mottie/Greasy_Fork_Total_Installs
 [ckrh-ou]: https://openuserjs.org/scripts/Mottie/Cryptokitty_rare_highlighter
+[gfcc-ou]: https://openuserjs.org/scripts/Mottie/GreasyFork_Copy_Code_Snippet
+[gfti-ou]: https://openuserjs.org/scripts/Mottie/Greasy_Fork_Total_Installs
 
 ## Updating
 
