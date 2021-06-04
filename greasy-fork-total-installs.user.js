@@ -8,7 +8,7 @@
 // @include     https://greasyfork.org/*
 // @run-at      document-idle
 // @grant       none
-// @icon        https://greasyfork.org/assets/blacklogo16-bc64b9f7afdc9be4cbfa58bdd5fc2e5c098ad4bca3ad513a27b15602083fd5bc.png
+// @icon        https://raw.githubusercontent.com/JasonBarnabe/greasyfork/master/public/images/blacklogo32.png
 // @updateURL   https://raw.githubusercontent.com/Mottie/Misc-userscripts/master/greasy-fork-total-installs.user.js
 // @downloadURL https://raw.githubusercontent.com/Mottie/Misc-userscripts/master/greasy-fork-total-installs.user.js
 // ==/UserScript==
